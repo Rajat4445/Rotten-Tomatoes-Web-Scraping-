@@ -1,6 +1,6 @@
 # Rotten-Tomatoes-Web-Scraping-
 
-<img src="2560px-Ride_hailing_services_Wikivoyage_banner.jpg">
+<img src="Screenshot 2022-08-26 at 5.11.58 PM.png">
 
 
 
