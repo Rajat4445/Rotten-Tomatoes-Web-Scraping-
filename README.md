@@ -1,4 +1,4 @@
-# Rotten-Tomatoes-Web-Scraping-
+<h1 align="center">Rotten Tomatoes Web Scraping</h1>
 
 <img src="Screenshot 2022-08-26 at 5.11.58 PM.png">
 
